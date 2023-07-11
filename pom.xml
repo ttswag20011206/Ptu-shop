@@ -21,5 +21,6 @@
         <module>Ptu-product</module>
         <module>Ptu-order</module>
         <module>Ptu-member</module>
+        <module>Ptu-common</module>
     </modules>
 </project>
